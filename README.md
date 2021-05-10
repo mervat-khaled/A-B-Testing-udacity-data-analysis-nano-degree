@@ -6,6 +6,7 @@ my goal is to work through this notebook to help the company understand if they 
 or perhaps run the experiment longer to make their decision.
 
 The libaries have been used on this project:
+
 pandas 
 numpy
 matplotlib
