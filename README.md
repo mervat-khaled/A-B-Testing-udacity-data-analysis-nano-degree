@@ -7,8 +7,8 @@ or perhaps run the experiment longer to make their decision.
 
 The libaries have been used on this project:
 
-pandas 
-numpy
-matplotlib
-statsmodels
+pandas,
+numpy,
+matplotlib,
+statsmodels,
 LogisticRegression  with scikit-learn 
